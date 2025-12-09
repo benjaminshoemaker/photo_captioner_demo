@@ -1,0 +1,4 @@
+# Configuration directory
+# Config modules will be added in later prompts:
+# - index.ts - Environment variable loading and validation
+# - constants.ts - Application constants (max upload size, rate limits, etc.)

@@ -1,0 +1,6 @@
+# Library/utilities directory
+# Utility modules will be added in later prompts:
+# - validators.ts - Schema validation helpers
+# - logger.ts (Prompt 17) - Structured logging with pino
+# - redisClient.ts (Prompt 7) - Redis connection
+# - safety.ts (Prompt 6) - Safety threshold checking

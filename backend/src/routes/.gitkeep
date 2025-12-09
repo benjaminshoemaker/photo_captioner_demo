@@ -1,0 +1,5 @@
+# Routes directory
+# Route modules will be added in later prompts:
+# - presign.ts (Prompt 4)
+# - generate.ts (Prompt 10)
+# - admin.ts (Prompt 11)

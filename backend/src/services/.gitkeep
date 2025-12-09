@@ -1,0 +1,11 @@
+# Services directory
+# Service modules will be added in later prompts:
+# - auth.ts (Prompt 2) - Firebase token verification
+# - storage.ts (Prompt 3) - GCS presigned uploads
+# - imageProc.ts (Prompt 5) - Sharp image processing
+# - vision.ts (Prompt 6) - Google Vision SafeSearch
+# - rateLimit.ts (Prompt 7) - Redis rate limiting
+# - openai.ts (Prompt 8) - OpenAI caption generation
+# - moderation.ts (Prompt 9) - Text moderation
+# - moderationStore.ts (Prompt 11) - Firestore flagged events
+# - generateOrchestrator.ts (Prompt 10) - Main orchestration logic
